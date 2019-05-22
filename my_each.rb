@@ -1,3 +1,9 @@
-def my_each # put argument(s) here
+def my_each(array)
+  array.each do |words|
+    puts |words|
+    yeld 
+  
+  
   # code here
+  
 end
